@@ -17,7 +17,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, B
 
 # --- CONFIGURATION ---
 TELEGRAM_BOT_TOKEN = "7956624694:AAE6e9UwkT2im8iIwslvxnxRZuy7EfFBz6A"
-GEMINI_API_KEY = "AIzaSyB92WWNHpjUun4AZ2BZC9Ea3IgPM8VAnUU"
+GEMINI_API_KEY = ""
 
 # --- USER & SETTINGS CONFIG ---
 ADMIN_ID = 7145991193
