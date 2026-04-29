@@ -16,7 +16,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, BaseHandler, CallbackQueryHandler
 
 # --- CONFIGURATION ---
-TELEGRAM_BOT_TOKEN = "7956624694:AAE6e9UwkT2im8iIwslvxnxRZuy7EfFBz6A"
+TELEGRAM_BOT_TOKEN = "8684621299:AAGnAncO9C40d1kyDuhobLSagHeYNR7BVrU"
 GEMINI_API_KEY = ""
 
 # --- USER & SETTINGS CONFIG ---
